@@ -1,4 +1,4 @@
-#Attendance Monitoring System
+# Attendance Monitoring System
 
 Face Recognition project using OpenCV
 
