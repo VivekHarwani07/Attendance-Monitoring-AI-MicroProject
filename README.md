@@ -1,4 +1,3 @@
-# Microsoft-Engage-2022-Face-Recognition
 Face Recognition project using OpenCV
 
 **Read this file in source blob**
